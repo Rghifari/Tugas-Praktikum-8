@@ -92,14 +92,27 @@ while True:
 
 ```
 
-# Output
+# OUTPUT
 
-**Tambah Data**
+# Tambah Data
+<img width="361" alt="OUTPUT (Tambah)" src="https://user-images.githubusercontent.com/93661771/146772505-5159d9ab-7b51-431a-9466-7cbee6b6f6fa.PNG">
 
-**Ubah Data**
 
-**Lihat Data**
+# Ubah Data
+<img width="374" alt="OUTPUT (Ubah)" src="https://user-images.githubusercontent.com/93661771/146772528-bb61c505-66e6-4aaa-8251-5a8113263a62.PNG">
 
-**Cari Data**
 
-**Hapus Data**
+# Lihat Data
+<img width="381" alt="OUTPUT (Tampilkan)" src="https://user-images.githubusercontent.com/93661771/146772558-b825d408-9ee3-485c-9dbd-1c03c2370c39.PNG">
+
+
+# Cari Data
+<img width="370" alt="OUTPUT (Cari)" src="https://user-images.githubusercontent.com/93661771/146772579-4570283c-37dc-42c8-8ac7-ccc1d5122a3c.PNG">
+
+
+# Hapus Data
+<img width="373" alt="OUTPUT (Hapus)" src="https://user-images.githubusercontent.com/93661771/146772612-da783025-51c6-4b74-9d3f-d2e8d62d12ed.PNG">
+
+
+# FLOWCHART
+<img width="601" alt="flowchart" src="https://user-images.githubusercontent.com/93661771/146772972-0450edd3-3a23-48ca-8a72-5f21bd1d7a6b.png">
